@@ -3,8 +3,8 @@ Write a program that test whether two words are anagrams (permutations of the
 same letters):
 
 ```
-Enter first words: smartest
-Enter second words: mattress
+Enter first word: smartest
+Enter second word: mattress
 The words are anagrams.
 
 Enter first word: dumbest
